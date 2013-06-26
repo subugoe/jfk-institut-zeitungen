@@ -12,10 +12,10 @@ Laden der Daten von SRU mit [sru-loader](https://github.com/ssp/sru-loader):
 
 Zusammenfügen in XML Datei:
 
-	echo "<records>\n `cat xml/*` \n</records>" > zeitschriften.xml
+	echo "<records>\n `cat xml/*` \n</records>" > zeitungen.xml
 
 
 
 Umwandeln in HTML Datei; Dabei Korrigieren der von der SRU Schnittstelle (typisch für Pica) fehlerhaft escapedten `&amp;amp;`
 
-	xsltproc transform.xsl zeitschriften.xml | replace "&amp;amp;" "&amp;" > zeitschriften.html
+	xsltproc transform.xsl zeitungen.xml | replace "&amp;amp;" "&amp;" > zeitungen.html
