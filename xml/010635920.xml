@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>New York gazette and weekly mercury</dc:title>
+  <dc:publisher>New York, NY</dc:publisher>
+  <dc:date>1768,848(1.Febr.) - 1783,1673(10.Nov.)[?]</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010635920</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">92156-7</dc:identifier>
+  <dc:relation>http://d-nb.info/010635912</dc:relation>
+</dc>

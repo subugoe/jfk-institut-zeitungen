@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Der Seebote</dc:title>
+  <dc:publisher>Milwaukee, Wis.</dc:publisher>
+  <dc:date>1875,13.Dez. - 1924,29.Nov. nachgewiesen</dc:date>
+  <dc:language>ger</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010613412</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">89747-4</dc:identifier>
+  <dc:relation>http://d-nb.info/010613404</dc:relation>
+</dc>

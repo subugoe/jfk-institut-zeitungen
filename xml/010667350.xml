@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Vocations for social change</dc:title>
+  <dc:publisher>Canyon, Calif.</dc:publisher>
+  <dc:date>1970 nachgewiesen; Nr. 22.1971 - 25.1971 nachgewiesen</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0042-7772</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010667350</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">95571-1</dc:identifier>
+  <dc:relation>http://d-nb.info/010670696</dc:relation>
+</dc>

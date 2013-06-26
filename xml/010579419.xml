@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>New Yorker Volkszeitung : den Interessen des arbeitenden Volkes gewidmet</dc:title>
+  <dc:publisher>New York City, NY : Socialistic Co-operative Publ. Ass.</dc:publisher>
+  <dc:date>1.1878,28.Jan. - 55.1932,15.Okt.</dc:date>
+  <dc:language>ger</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010579419</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">85786-5</dc:identifier>
+  <dc:subject>050 Zeitschriften, fortlaufende Sammelwerke</dc:subject>
+  <dc:relation>http://d-nb.info/013606751</dc:relation>
+</dc>

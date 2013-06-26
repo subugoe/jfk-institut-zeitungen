@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Boston globe</dc:title>
+  <dc:publisher>Boston, Mass.[u.a.]</dc:publisher>
+  <dc:date>1960,26.Apr. -</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0743-1791</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">01450085X</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">820960-1</dc:identifier>
+  <dc:relation>http://d-nb.info/014500868</dc:relation>
+</dc>

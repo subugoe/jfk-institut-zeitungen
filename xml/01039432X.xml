@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Carlisle gazette and the Western repository of knowledge</dc:title>
+  <dc:publisher>Carlisle, Pa.</dc:publisher>
+  <dc:date>1785,10.Aug. - 1794,1.Jan.[?]</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">01039432X</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">44659-2</dc:identifier>
+  <dc:relation>http://d-nb.info/010394338</dc:relation>
+</dc>

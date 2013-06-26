@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>New Yorker Staats-Zeitung und Herold</dc:title>
+  <dc:publisher>Long Island City, NY [u.a.]</dc:publisher>
+  <dc:date>1919,1.Dez. - 1920,209(31.Aug.); 100.1934,289(3.Dez.) - 1992,1.Jan.[?]</dc:date>
+  <dc:language>ger</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">015384047</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1005054-1</dc:identifier>
+  <dc:subject>050 Zeitschriften, fortlaufende Sammelwerke</dc:subject>
+  <dc:relation>http://d-nb.info/01554088X</dc:relation>
+</dc>

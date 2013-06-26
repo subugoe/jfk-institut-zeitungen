@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Essex journal</dc:title>
+  <dc:publisher>Newburyport, Mass.</dc:publisher>
+  <dc:date>1776,7.Nov. - 1777,13.Febr. nachgewiesen</dc:date>
+  <dc:identifier xsi:type="dnb:IDN">010577882</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">85617-4</dc:identifier>
+  <dc:relation>http://d-nb.info/010577874</dc:relation>
+</dc>

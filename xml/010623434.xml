@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>[Courier / National edition] ; Courier; National edition</dc:title>
+  <dc:publisher>Pittsburgh, Pa.</dc:publisher>
+  <dc:date>1951 - 1954</dc:date>
+  <dc:identifier xsi:type="dnb:IDN">010623434</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">90810-1</dc:identifier>
+  <dc:relation>http://d-nb.info/010623426</dc:relation>
+</dc>

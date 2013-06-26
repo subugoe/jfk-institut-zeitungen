@@ -1,0 +1,11 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Saturday review</dc:title>
+  <dc:publisher>New York, NY : Saturday Review Associates</dc:publisher>
+  <dc:date>35.1952 - 55.1972/73; [N.S.] 2.1974/75,8(Jan.) - 12.1986,2; damit Ersch. eingest.</dc:date>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0361-1655</dc:identifier>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0091-620x</dc:identifier>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0036-4983</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010700978</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">124492-9</dc:identifier>
+  <dc:relation>http://d-nb.info/01175236X</dc:relation>
+</dc>

@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>UPS news service</dc:title>
+  <dc:publisher>New York, NY</dc:publisher>
+  <dc:date>2.1971 - 3.1972[?]</dc:date>
+  <dc:identifier xsi:type="dnb:IDN">010550437</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">82314-4</dc:identifier>
+  <dc:relation>http://d-nb.info/010563717</dc:relation>
+</dc>

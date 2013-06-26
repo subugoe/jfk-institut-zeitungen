@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Chicago daily socialist</dc:title>
+  <dc:publisher>Chicago, Ill.</dc:publisher>
+  <dc:date>Nachgewiesen 1906,25.Okt. - 1912,25.Mai</dc:date>
+  <dc:identifier xsi:type="dnb:IDN">010592474</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">87288-x</dc:identifier>
+  <dc:relation>http://d-nb.info/010592326</dc:relation>
+</dc>

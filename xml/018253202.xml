@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Impartial herald</dc:title>
+  <dc:publisher>Newburyport, Mass.</dc:publisher>
+  <dc:date>1.1793,18.Mai - 5.1797,27.Okt</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">018253202</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1322724-5</dc:identifier>
+  <dc:relation>http://d-nb.info/015472671</dc:relation>
+</dc>

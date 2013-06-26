@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>International herald tribune : the global edition of the New York Times</dc:title>
+  <dc:publisher>Neuilly-sur-Seine : International Herald Tribune</dc:publisher>
+  <dc:date>80.1967,22.Mai=Nr. 26236 -</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0294-8052</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010714448</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">126074-1</dc:identifier>
+  <dc:relation>http://d-nb.info/01071426X</dc:relation>
+</dc>

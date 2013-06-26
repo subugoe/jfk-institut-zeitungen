@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Life</dc:title>
+  <dc:publisher>New York, NY : Time Inc.</dc:publisher>
+  <dc:date>1.1936,1(23.Nov.) - 73.1972,25(29.Dez.); [N.S.] 1.1978 - 23.2000,5; damit Ersch. eingest</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0024-3019</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">012512362</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">439403-3</dc:identifier>
+  <dc:relation>http://d-nb.info/01080143X</dc:relation>
+</dc>

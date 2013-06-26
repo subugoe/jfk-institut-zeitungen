@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Baltimore price current</dc:title>
+  <dc:publisher>Baltimore, Md. : Escavaille</dc:publisher>
+  <dc:date>1803,14.Febr. - 1804,27.Dez.; 1813,26.Juni - 1830,25.Dez. = Nr. 531-1392</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">023555440</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">2080680-2</dc:identifier>
+  <dc:relation>http://d-nb.info/023555475</dc:relation>
+</dc>

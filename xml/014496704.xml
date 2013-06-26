@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>New Hampshire patriot</dc:title>
+  <dc:publisher>Concord, NH</dc:publisher>
+  <dc:date>1809,18.Apr. - 1819,26.Jan.; 1869 - 1878,3.Okt.; 1901.Apr. - 1921[?]</dc:date>
+  <dc:identifier xsi:type="dnb:IDN">014496704</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">820496-2</dc:identifier>
+  <dc:relation>http://d-nb.info/014496631</dc:relation>
+</dc>

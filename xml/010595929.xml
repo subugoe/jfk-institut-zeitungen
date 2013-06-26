@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Hough's concord herald</dc:title>
+  <dc:publisher>Concord, NH</dc:publisher>
+  <dc:date>1791,19.Jan.-2.März; 1792,8.Sept. - 1794,6.Febr.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010595929</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">87704-9</dc:identifier>
+  <dc:relation>http://d-nb.info/010595902</dc:relation>
+</dc>

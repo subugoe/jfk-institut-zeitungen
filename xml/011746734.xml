@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Time</dc:title>
+  <dc:publisher>New York, NY : Time Inc.</dc:publisher>
+  <dc:date>1.1923,1(3.März) -</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0040-781x</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">011746734</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">280947-3</dc:identifier>
+  <dc:relation>http://d-nb.info/01386940X</dc:relation>
+</dc>

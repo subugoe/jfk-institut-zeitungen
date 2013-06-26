@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>[New Pittsburgh courier / National edition] ; New Pittsburgh courier; National edition</dc:title>
+  <dc:publisher>Pittsburgh, Pa. : New Pittsburgh Courier</dc:publisher>
+  <dc:date>58.1966,44 -</dc:date>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 1047-806X</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010623442</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">90811-3</dc:identifier>
+  <dc:relation>http://d-nb.info/010623426</dc:relation>
+</dc>

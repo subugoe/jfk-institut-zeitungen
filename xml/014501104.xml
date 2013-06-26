@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Boston news-letter</dc:title>
+  <dc:publisher>Boston, Mass.</dc:publisher>
+  <dc:date>1704,24.Apr. - 1726,22.Dez.; 1757,1.Sept. - 1762,18.März</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">014501104</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">820988-1</dc:identifier>
+  <dc:relation>http://d-nb.info/014501171</dc:relation>
+</dc>

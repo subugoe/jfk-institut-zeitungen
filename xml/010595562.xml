@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Boston recorder</dc:title>
+  <dc:publisher>Boston, Mass.</dc:publisher>
+  <dc:date>2.1818 - 9.1824; 15.1830,27 - 34.1849,19; 43.1858,20 - 52.1867,20</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010595562</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">87665-3</dc:identifier>
+  <dc:relation>http://d-nb.info/010595554</dc:relation>
+</dc>

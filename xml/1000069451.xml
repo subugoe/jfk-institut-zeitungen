@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Plebeian</dc:title>
+  <dc:publisher>Kingston, NY</dc:publisher>
+  <dc:date>1.1803,3.Aug. - 12.1814/15,25.Juli[?]</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">1000069451</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">2537755-3</dc:identifier>
+  <dc:relation>http://d-nb.info/01568864X</dc:relation>
+</dc>

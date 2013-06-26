@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Cincinnati Republicaner : Organ der Arbeiter / hrsg. vom Socialen Arbeiter-Verein</dc:title>
+  <dc:publisher>Cincinnati, Ohio</dc:publisher>
+  <dc:date>17.1858,Jan. - 20.1861,42(23.März)</dc:date>
+  <dc:language>ger</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010641033</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">92718-1</dc:identifier>
+  <dc:relation>http://d-nb.info/018301061</dc:relation>
+</dc>

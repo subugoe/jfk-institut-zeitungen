@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Lady's miscellany, or the weekly visitor and entertaining companion for the use and amusement of both sexes</dc:title>
+  <dc:publisher>New York, NY</dc:publisher>
+  <dc:date>11.1810,3(12.Mai) - 15.1812,26(17.Okt.)</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010569111</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">84638-7</dc:identifier>
+  <dc:relation>http://d-nb.info/010569103</dc:relation>
+</dc>

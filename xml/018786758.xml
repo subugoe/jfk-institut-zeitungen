@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Baltimore patriot and evening advertiser</dc:title>
+  <dc:publisher>Baltimore, Md. : Munroe</dc:publisher>
+  <dc:date>1.1812,28.Dez. - 6.1817,30.Apr.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">018786758</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1383238-4</dc:identifier>
+  <dc:relation>http://d-nb.info/019271379</dc:relation>
+</dc>

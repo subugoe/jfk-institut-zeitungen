@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Bell &amp;amp; Howell newspaper index to The Boston globe</dc:title>
+  <dc:publisher>Wooster, Ohio : Bell &amp;amp; Howell</dc:publisher>
+  <dc:date>1983(1984) - 1986(1987)</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0741-5281</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">99859251X</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">2526951-3</dc:identifier>
+  <dc:relation>http://d-nb.info/998592412</dc:relation>
+</dc>

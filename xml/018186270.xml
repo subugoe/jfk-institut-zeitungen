@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Sun Prairie star-countryman</dc:title>
+  <dc:publisher>Sun Prairie, Wis.</dc:publisher>
+  <dc:date>69.1946,30(4.Juli) - 84.1961,51(16.Nov.)</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">018186270</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1314665-8</dc:identifier>
+  <dc:relation>http://d-nb.info/021236615</dc:relation>
+</dc>

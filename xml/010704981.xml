@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Saturday review - World</dc:title>
+  <dc:publisher>New York, NY</dc:publisher>
+  <dc:date>1.1973/74 - 2.1974/75,7(Dez.)</dc:date>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0091-620x</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010704981</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">124988-5</dc:identifier>
+  <dc:relation>http://d-nb.info/01070499X</dc:relation>
+</dc>

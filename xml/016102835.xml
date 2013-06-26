@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>[Los Angeles times / Library edition] ; Los Angeles times; Library edition [[Mikroform]]</dc:title>
+  <dc:publisher>Los Angeles, Calif. : Los Angeles Times Microfilm Services</dc:publisher>
+  <dc:date>Nachgewiesen 1975 -</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">016102835</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1079347-1</dc:identifier>
+  <dc:format>Mikrofiches</dc:format>
+</dc>

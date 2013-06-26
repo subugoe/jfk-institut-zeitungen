@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The hive</dc:title>
+  <dc:publisher>Northampton, Mass.</dc:publisher>
+  <dc:date>1.1803/04,23.Aug. - 2.1805,29.Jan.[?]</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">016123336</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1081465-6</dc:identifier>
+</dc>

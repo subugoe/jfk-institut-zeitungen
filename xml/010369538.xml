@@ -1,0 +1,11 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>[Granma / Weekly review] ; Granma; Weekly review ; official organ of the Central Committee of the Communist Party of Cuba</dc:title>
+  <dc:creator>Partido Comunista de Cuba</dc:creator>
+  <dc:publisher>Havana</dc:publisher>
+  <dc:date>1.1966,1(20.Febr.) - 26.1991,10(10.März)</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0864-0424</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010369538</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">41805-5</dc:identifier>
+  <dc:relation>http://d-nb.info/01907235X</dc:relation>
+</dc>

@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Belleviller Tageblatt und Arbeiter-Zeitung</dc:title>
+  <dc:publisher>Belleville, Ill.</dc:publisher>
+  <dc:date>16.1900 - 28.1912; damit Ersch. eingest.</dc:date>
+  <dc:language>ger</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010574565</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">85264-8</dc:identifier>
+  <dc:relation>http://d-nb.info/018037704</dc:relation>
+</dc>

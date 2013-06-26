@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Times, and weekly advertiser</dc:title>
+  <dc:publisher>Hartford, Conn.</dc:publisher>
+  <dc:date>3.1819,16.Nov. - 6.1822,31.Dez.[?]</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010568131</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">84538-3</dc:identifier>
+  <dc:relation>http://d-nb.info/01056814X</dc:relation>
+</dc>

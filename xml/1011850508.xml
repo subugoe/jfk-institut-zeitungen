@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Hartford times</dc:title>
+  <dc:publisher>Hartford, Conn.</dc:publisher>
+  <dc:date>1828,5.Mai - 1833,9.Dez.[?]</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">1011850508</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">2609042-9</dc:identifier>
+  <dc:relation>http://d-nb.info/1011850176</dc:relation>
+</dc>

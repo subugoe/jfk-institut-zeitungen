@@ -1,0 +1,11 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Saturday review of literature</dc:title>
+  <dc:publisher>New York, NY</dc:publisher>
+  <dc:date>1.1924/25 - 23.1940/41; 24.1941 - 34.1951</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0147-5932</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">01175236X</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">281654-4</dc:identifier>
+  <dc:subject>050 Zeitschriften, fortlaufende Sammelwerke</dc:subject>
+  <dc:relation>http://d-nb.info/010700978</dc:relation>
+</dc>

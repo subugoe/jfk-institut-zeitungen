@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The OC daily / Oneida Community</dc:title>
+  <dc:creator>Oneida Community</dc:creator>
+  <dc:publisher>Oneida, NY</dc:publisher>
+  <dc:date>3.1867,21 - 5.1868,73; damit Ersch. eingest.</dc:date>
+  <dc:identifier xsi:type="dnb:IDN">014429039</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">799292-0</dc:identifier>
+  <dc:relation>http://d-nb.info/014429020</dc:relation>
+</dc>

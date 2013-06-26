@@ -1,0 +1,11 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>[Die Tageszeitung &amp;lt;Berlin&gt;] ; Die Tageszeitung : taz</dc:title>
+  <dc:publisher>Frankfurt, [M.] : Verl. Die Tageszeitung; Berlin : Taz Verl.- u. Vertriebs-GmbH</dc:publisher>
+  <dc:date>[1.]1978,22.Sept. - [2.19]79,2.Apr. = Nr. 1-10; 2.[19]79,17.Apr. - 3.[19]80,31.Jan. = Nr. 11-210</dc:date>
+  <dc:language>ger</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">Autorisierte ISSN: 2192-287X Die Tageszeitung (Berlin)</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">016203704</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1089762-8</dc:identifier>
+  <dc:subject>06 Publizistik</dc:subject>
+  <dc:relation>http://d-nb.info/016203348</dc:relation>
+</dc>

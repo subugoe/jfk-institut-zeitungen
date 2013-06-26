@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>New Hampshire gazette or state journal and general advertiser</dc:title>
+  <dc:publisher>Portsmouth, NH</dc:publisher>
+  <dc:date>1778,16.Juni - 1781,1.Sept.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010576223</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">85441-4</dc:identifier>
+  <dc:relation>http://d-nb.info/010576215</dc:relation>
+</dc>

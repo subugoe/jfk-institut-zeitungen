@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The globe and mail : Canada's national newspaper</dc:title>
+  <dc:publisher>Toronto</dc:publisher>
+  <dc:date>Nachgewiesen 1936,23.Nov. -</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0319-0714</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010588841</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">86841-3</dc:identifier>
+  <dc:relation>http://d-nb.info/010338764</dc:relation>
+</dc>

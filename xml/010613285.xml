@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>New England palladium and commercial advertiser</dc:title>
+  <dc:publisher>Boston, Mass.</dc:publisher>
+  <dc:date>1815,3.Jan. - 1820,29.Dez.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010613285</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">89733-4</dc:identifier>
+  <dc:relation>http://d-nb.info/010613277</dc:relation>
+</dc>

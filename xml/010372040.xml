@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Militant : a socialist newsweekly publ. in the interest of the working people</dc:title>
+  <dc:publisher>New York, NY : The Militant</dc:publisher>
+  <dc:date>5.1941,26.Jan. -</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0026-3885</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010372040</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">42083-9</dc:identifier>
+  <dc:relation>http://d-nb.info/018740561</dc:relation>
+</dc>

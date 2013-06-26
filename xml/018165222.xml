@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Phenix or Windham herald</dc:title>
+  <dc:publisher>Windham &amp;lt;Conn.&gt;</dc:publisher>
+  <dc:date>1.1791,12.März - 8.1798,12.Apr.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">018165222</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1312498-5</dc:identifier>
+  <dc:relation>http://d-nb.info/018165230</dc:relation>
+</dc>

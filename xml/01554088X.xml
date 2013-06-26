@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>New Yorker Staatszeitung</dc:title>
+  <dc:publisher>New York, NY</dc:publisher>
+  <dc:date>1834,24.Dez. - 1919,29.Nov.; 86.1920,210(1. Aug.) - 100.1934,288(1.Dez.)</dc:date>
+  <dc:language>ger</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">01554088X</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1021327-2</dc:identifier>
+  <dc:subject>050 Zeitschriften, fortlaufende Sammelwerke</dc:subject>
+  <dc:relation>http://d-nb.info/015384047</dc:relation>
+</dc>

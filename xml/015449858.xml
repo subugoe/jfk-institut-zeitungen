@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The black panther : black community news service / Black Panther Party</dc:title>
+  <dc:publisher>San Francisco, Calif. : Party</dc:publisher>
+  <dc:date>1.1967 - 1980,Sept.; damit Ersch. eingest.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0523-7238</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">015449858</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1011895-0</dc:identifier>
+</dc>

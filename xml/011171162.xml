@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Social security bulletin / US Department of Health and Human Services, Social Security Administration, Office of Policy, Office of Research, Evaluation and Statistics</dc:title>
+  <dc:creator>USA / Social Security Administration</dc:creator>
+  <dc:publisher>Washington, DC : US Gov.Print.Off.</dc:publisher>
+  <dc:date>1.1938,März -</dc:date>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0037-7910</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">011171162</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">204544-8</dc:identifier>
+</dc>

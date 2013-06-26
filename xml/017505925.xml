@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Northern post</dc:title>
+  <dc:publisher>Salem, NY</dc:publisher>
+  <dc:date>1.1804,2(29.Mai)  - 8.1811; 1812 - 1817,25.Dez.[?]</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">017505925</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1224312-7</dc:identifier>
+  <dc:relation>http://d-nb.info/018161405</dc:relation>
+</dc>

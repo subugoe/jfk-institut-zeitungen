@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Democrat</dc:title>
+  <dc:publisher>Boston, Mass.</dc:publisher>
+  <dc:date>1802,26.Mai - 1809,25.Mai; damit Ersch. eingest.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010603662</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">88657-9</dc:identifier>
+  <dc:relation>http://d-nb.info/010603654</dc:relation>
+</dc>

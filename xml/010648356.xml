@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Roosevelt torch</dc:title>
+  <dc:publisher>Chicago</dc:publisher>
+  <dc:date>Nachgewiesen 25.1970 - 26.1970,10</dc:date>
+  <dc:identifier xsi:type="dnb:IDN">010648356</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">93509-8</dc:identifier>
+  <dc:relation>http://d-nb.info/010648429</dc:relation>
+</dc>

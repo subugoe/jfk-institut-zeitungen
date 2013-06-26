@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Collier's : the national weekly</dc:title>
+  <dc:publisher>New York, NY ; London</dc:publisher>
+  <dc:date>Nachgewiesen 1891 - 1895,[?]Sept.; 1905,Jan. - 1957,4.Jan.; damit Ersch. eingest.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">01059485X</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">87591-0</dc:identifier>
+  <dc:subject>070 Nachrichtenmedien, Journalismus, Verlagswesen</dc:subject>
+  <dc:relation>http://d-nb.info/018291546</dc:relation>
+</dc>

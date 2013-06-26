@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Viet report : a emergency news bulletin on Southeast Asian affairs</dc:title>
+  <dc:publisher>New York, NY : Viet-Report Inc.</dc:publisher>
+  <dc:date>1.1965 - 3.1968,8/9[?]</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0506-9424</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010208127</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">15136-1</dc:identifier>
+</dc>

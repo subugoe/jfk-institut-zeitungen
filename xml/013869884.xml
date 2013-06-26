@@ -1,0 +1,11 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Saturday evening post : an illustrated weekly magazine</dc:title>
+  <dc:publisher>Philadelphia, Pa. : Curtis</dc:publisher>
+  <dc:date>1.1821,3(18.Aug.) - 4.1825,53(Dez.); 1826,8.Juli - 1830,25.Dez.; 1839,9.Nov. - 242.1969,8.Febr. nachgewiesen</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0048-9239</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">013869884</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">716453-1</dc:identifier>
+  <dc:subject>050 Zeitschriften, fortlaufende Sammelwerke</dc:subject>
+  <dc:relation>http://d-nb.info/010630368</dc:relation>
+</dc>

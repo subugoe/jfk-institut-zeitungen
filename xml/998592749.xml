@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Boston globe index</dc:title>
+  <dc:publisher>Ann Arbor, Mich. : Univ. Microfilms International</dc:publisher>
+  <dc:date>5.1987(1988) -</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0893-2727</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">998592749</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">2526953-7</dc:identifier>
+  <dc:relation>http://d-nb.info/99859251X</dc:relation>
+</dc>

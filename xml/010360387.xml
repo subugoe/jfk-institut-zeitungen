@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>[The Christian science monitor / Eastern edition] ; The Christian science monitor : an internat. daily newspaper; Eastern edition</dc:title>
+  <dc:publisher>Boston, Mass. : Christian Science Publ. Soc.; Boston, Mass. : Bell &amp;amp; Howell [Index]</dc:publisher>
+  <dc:date>1966 -</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0145-8027</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">010360387</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">40768-9</dc:identifier>
+  <dc:relation>http://d-nb.info/01184745X</dc:relation>
+</dc>

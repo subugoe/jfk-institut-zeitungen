@@ -1,0 +1,10 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Anzeiger des Westens : Wochenblatt</dc:title>
+  <dc:creator>Börnstein, Heinrich</dc:creator>
+  <dc:publisher>St. Louis, Mo. : Holstein</dc:publisher>
+  <dc:date>1.1835/36 - 12.1846/47,[44](21.Aug.); nachgewiesen 16.1850/51,14(18.Jan.) - 22.1856/57,52(15.Okt.)</dc:date>
+  <dc:language>ger</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010638377</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">92423-4</dc:identifier>
+  <dc:relation>http://d-nb.info/018075924</dc:relation>
+</dc>

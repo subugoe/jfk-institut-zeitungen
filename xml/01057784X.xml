@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Essex journal and the Massachusetts and New Hampshire general advertiser</dc:title>
+  <dc:publisher>Newburyport, Mass.</dc:publisher>
+  <dc:date>Nachgewiesen 1784,9.Juli - 1786,13.Dez.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">01057784X</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">85613-7</dc:identifier>
+  <dc:relation>http://d-nb.info/010577858</dc:relation>
+</dc>

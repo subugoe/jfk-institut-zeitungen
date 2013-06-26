@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>I. F. Stone's weekly</dc:title>
+  <dc:publisher>Washington, DC : Stone</dc:publisher>
+  <dc:date>1.1953 - 19.1971; damit Ersch. eingest.</dc:date>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0018-9758</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">01387215X</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">716761-1</dc:identifier>
+</dc>

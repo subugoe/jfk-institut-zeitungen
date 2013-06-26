@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The London American</dc:title>
+  <dc:publisher>London</dc:publisher>
+  <dc:date>Nr. 1.1895,3.Apr. - 310.1901,18.Okt.[?]</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">018322182</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1329829-x</dc:identifier>
+  <dc:relation>http://d-nb.info/018322190</dc:relation>
+</dc>

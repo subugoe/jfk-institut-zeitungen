@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Independent journal : or, the general advertiser</dc:title>
+  <dc:publisher>New York, NY</dc:publisher>
+  <dc:date>1783,17.Nov. - 1788,24.Dez.</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">015460916</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1013039-1</dc:identifier>
+  <dc:relation>http://d-nb.info/016080173</dc:relation>
+</dc>

@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Echo : Wochenblatt der Vereinigten Deutschen Sozialisten Clevelands</dc:title>
+  <dc:publisher>Cleveland, Ohio</dc:publisher>
+  <dc:date>1911,29.Apr. - 1917,21.Apr.; 1918,21.Dez. - 1920,17.Apr. nachgewiesen</dc:date>
+  <dc:language>ger</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010601481</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">88400-5</dc:identifier>
+</dc>

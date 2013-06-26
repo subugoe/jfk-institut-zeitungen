@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Boston evening post</dc:title>
+  <dc:publisher>Boston, Mass. : Fleet</dc:publisher>
+  <dc:date>[1.]1735,18.Aug.; 2.1735,25.Aug. - 1775,24.Apr. = Nr. 203-2065</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">014500477</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">820918-2</dc:identifier>
+  <dc:relation>http://d-nb.info/01450054X</dc:relation>
+</dc>

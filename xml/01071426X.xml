@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>[New York herald tribune / European edition] ; New York herald tribune; European edition</dc:title>
+  <dc:publisher>Paris</dc:publisher>
+  <dc:date>48.1935,1.Sept. - 53.1940,12.Juni; 1944,22.Dez. - 80.1967,20/21.Mai; auch mit durchgehender Nr.-Zählung</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">01071426X</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">126055-8</dc:identifier>
+  <dc:relation>http://d-nb.info/011382430</dc:relation>
+</dc>

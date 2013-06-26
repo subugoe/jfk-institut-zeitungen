@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The Milwaukee daily sentinel</dc:title>
+  <dc:publisher>Milwaukee, Wis.</dc:publisher>
+  <dc:date>1852 - 1861 nachgewiesen</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">018166458</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">1312628-3</dc:identifier>
+  <dc:relation>http://d-nb.info/018166474</dc:relation>
+</dc>

@@ -1,0 +1,9 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Connecticut gazette and commercial intelligencer</dc:title>
+  <dc:publisher>Hartford, Conn.</dc:publisher>
+  <dc:date>1800,1.Jan. - 1805,6.März</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xsi:type="dnb:IDN">010596356</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">87752-9</dc:identifier>
+  <dc:relation>http://d-nb.info/010596348</dc:relation>
+</dc>

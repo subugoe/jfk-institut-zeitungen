@@ -1,0 +1,8 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>The New Yorker</dc:title>
+  <dc:publisher>New York, NY : Greeley</dc:publisher>
+  <dc:date>1.1836,26.März - 11.1841,11.Sept.</dc:date>
+  <dc:identifier xsi:type="dnb:IDN">010624694</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">90947-6</dc:identifier>
+  <dc:relation>http://d-nb.info/018883907</dc:relation>
+</dc>

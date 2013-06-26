@@ -1,0 +1,11 @@
+<dc xmlns:dnb="http://d-nb.de/standards/dnbterms" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>New York times book review / publ. weekly by the New York Times Company</dc:title>
+  <dc:creator>New York Times Company</dc:creator>
+  <dc:publisher>New York, NY : Comp.</dc:publisher>
+  <dc:date>1.1896 - 1920; 27.1922 -</dc:date>
+  <dc:language>eng</dc:language>
+  <dc:identifier xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xsi:type="tel:ISSN">ISSN der Vorlage: 0028-7806</dc:identifier>
+  <dc:identifier xsi:type="dnb:IDN">011816813</dc:identifier>
+  <dc:identifier xsi:type="dnb:ZDBID">300569-0</dc:identifier>
+  <dc:relation>http://d-nb.info/010165835</dc:relation>
+</dc>
