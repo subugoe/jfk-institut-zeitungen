@@ -7,3 +7,9 @@ sru-loader.py --url http://services.dnb.de/sru/zdb --schema oai_dc --format xml 
 Zusammenfügen in XML Datei:
 
 echo "<records>\n `cat xml/*` \n</records>" > zeitschriften.xml
+
+
+
+Umwandeln in HTML Datei; Dabei Korrigieren der von der SRU Schnittstelle (typisch für Pica) fehlerhaft escapedten &amp;amp;
+
+xsltproc transform.xsl zeitschriften.xml | replace "&amp;amp;" "&amp;" > zeitschriften.html
