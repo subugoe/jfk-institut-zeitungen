@@ -20,7 +20,7 @@
 	<xsl:template match="/records">
 		<ul>
 			<xsl:for-each select="*">
-				<xsl:sort select="dc:title"/>
+				<xsl:sort select="translate(dc:title, '[', '')"/>
 				<li>
 					<span class="title">
 						<xsl:value-of select="dc:title"/>
